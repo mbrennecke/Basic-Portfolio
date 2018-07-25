@@ -99,9 +99,26 @@ input[type=submit] {
 	padding: 5px 15px;
 }
 
-#image1, #image2 {
+.image {
+
 	float: left;
+	margin-left: 100px;
+	margin-bottom: 130px;
+	position: relative;
+	z-index: 2;
 }
-#image3, #image4 {
-	float: left;
+
+
+
+.portfolio-p {
+
+	width: 300px;
+	text-align: center;
+	background-color: #4aaaa5;
+	color: #fff;
+	margin: -100px 0px 0px;
+	padding: 15px 0;
+	position: relative;
+	z-index: 1;
+
 }
