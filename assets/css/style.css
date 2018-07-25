@@ -87,3 +87,21 @@ h2 {
 	border-color: #ccc;
 
 }
+
+input[type=text], textarea {
+	width: 100%;
+	border: 1px solid #ddd;
+}
+
+input[type=submit] {
+	background-color: #4aaaa5;
+	color: #fff;
+	padding: 5px 15px;
+}
+
+#image1, #image2 {
+	float: left;
+}
+#image3, #image4 {
+	float: left;
+}
