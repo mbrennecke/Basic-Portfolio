@@ -71,7 +71,7 @@ a:visited {
 .content {
 		clear: both;
 		width: 960px;
-		margin: 25px auto 100px;		
+		margin: 20px auto 100px;		
 		line-height:1.5;
 
 }
@@ -172,7 +172,7 @@ input[type=submit] {
 .contact-content {
 		clear: both;
 		width: 960px;
-		margin: 25px auto 0px;
+		margin: 0 auto;
 		padding:20px 20px 100px;
 
 		line-height:1.5;
